@@ -13,11 +13,11 @@ El archivo **inicio.js** es el que contiene la página de inicio, la página pri
 1.	**Un encabezado:** donde se muestra el logotipo de la organización y algunos referencias de contacto
 2.	**Un menú de navegación:** el cual contiene el menú de navegación del sitio web
 3.	**Una sección principal:** el cual consta de cinco partes:
--	La primera parte consta de una presentación del negocio a través de un carrusel de imágenes
--	La segunda parte consta de un breve resumen que muestra las cualidades de la empresa
--	La tercera parte consta de breves referencias a los servicios que ofrece la empresa
--	La cuarta parte consta de un enlace que envía al usuario a un formulario donde él puede realizar sus comentarios y/o concretar una cita para un servicio a su automóvil
--	La quinta parte consta de referencias breves a noticias del mundo automotriz y un enlace que envía al usuario a explorar y leer el resto de su contenido
+    -	La primera parte consta de una presentación del negocio a través de un carrusel de imágenes
+    -	La segunda parte consta de un breve resumen que muestra las cualidades de la empresa
+    -	La tercera parte consta de breves referencias a los servicios que ofrece la empresa
+    -	La cuarta parte consta de un enlace que envía al usuario a un formulario donde él puede realizar sus comentarios y/o concretar una cita para un servicio a su   automóvil
+    -	La quinta parte consta de referencias breves a noticias del mundo automotriz y un enlace que envía al usuario a explorar y leer el resto de su contenido
 4.	**Un pie de página:** muestra la información de contacto del negocio
 
 ###### El menú principal consta de cinco opciones:
