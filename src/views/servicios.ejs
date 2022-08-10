@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/estilosServicios.css">
+        <link rel="shortcut icon" type="image/x-icon" href="imagenes/iconotools.png"/> 
+        <title><%- titulo %></title>
+        <%- include('partials/head') %>
+    </head>
+    <body>
+        <header>
+            <!-- Sección uno: encabezado -->
+            <%- include('partials/encabezado') %>
+
+            <!-- Sección dos: menú de navegación -->
+            <%- include('partials/navegacion') %>
+        </header>        
+        <main>
+            <!-- Sección tres: información de los servicios que ofrece la empresa -->
+            <%- include('partials/t_servicios') %>
+        
+            <%- include('partials/p_servicios') %>
+        </main>        
+        <footer>
+            <!-- Sección cuatro: información general - información de contacto del negocio -->
+            <%- include('partials/piepagina') %>        
+
+            <!-- Sección cinco: lista de archivos y enlaces a utilizar por el sitio web -->
+            <%- include('partials/footer') %>
+        </footer>                
+    </body>
+</html>

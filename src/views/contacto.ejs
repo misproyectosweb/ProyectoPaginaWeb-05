@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/estilosContacto.css">        
+        <link rel="shortcut icon" type="image/x-icon" href="imagenes/iconotools.png"/> 
+        <title><%- titulo %></title>
+        <%- include('partials/head') %>
+    </head>
+    <body>
+        <header>
+            <!-- Sección uno: encabezado -->
+            <%- include('partials/encabezado') %>
+
+            <!-- Sección dos: menú de navegación -->
+            <%- include('partials/navegacion') %>
+        </header>
+        <main>
+            <!-- Sección tres: información de contacto con la empresa -->
+            <%- include('partials/t_contacto') %>
+
+            <!-- Sección cuatro: mapa de ubicación del negocio -->
+            <%- include('partials/p_contacto') %>
+                
+            <div class="container-fluid bg-light pb-5">
+                <div class="row">
+
+                    <!-- Sección cinco: formulario de contacto -->
+                    <%- include('partials/formcontacto') %>
+                    
+                    <div class="col-md-6 d-flex flex-row justify-content-around">
+                        
+                        <!-- Sección seis: horario de servicio -->
+                        <%- include('partials/h_contacto') %>
+                        
+                        <!-- Sección siete: lista de servicios -->
+                        <%- include('partials/s_contacto') %>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <!-- Sección ocho: información general - información de contacto del negocio -->
+            <%- include('partials/piepagina') %>        
+
+            <!-- Sección nueve: lista de archivos y enlaces a utilizar por el sitio web -->
+            <%- include('partials/footer') %>
+        </footer>
+    </body>
+</html>
