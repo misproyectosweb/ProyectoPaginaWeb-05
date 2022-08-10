@@ -1,6 +1,6 @@
 # ProyectoPaginaWeb-05
 
-## Sitio web creado con:
+Sitio web creado con:
 -	**HTML:** permite crear la estructura del sitio web mediante etiquetas
 -	**CSS:** para definir y crear la presentación de del sitio web
 -	**JavaScript:** añade características que permite establecer acciones interactivas al sitio web
@@ -20,7 +20,7 @@ El archivo **inicio.js** es el que contiene la página de inicio, la página pri
     -	La quinta parte consta de referencias breves a noticias del mundo automotriz y un enlace que envía al usuario a explorar y leer el resto de su contenido
 4.	**Un pie de página:** muestra la información de contacto del negocio
 
-## El menú principal consta de cinco opciones:
+El menú principal consta de cinco opciones:
 1.	**Inicio:** es la página principal del sitio web.
 2.	**Quienes somos:** muestra información acerca de la organización, tales como la visión, misión y muestra breves cualidades del personal que integra la empresa
 3.	**Nuestros servicios:** muestra de manera más descriptiva y amplia los servicios que ofrece la empresa
