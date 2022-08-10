@@ -5,6 +5,7 @@ Sitio web creado con:
 -	**CSS:** para definir y crear la presentación de del sitio web
 -	**JavaScript:** añade características que permite establecer acciones interactivas al sitio web
 -	**Bootstrap:** utilizado para personalizar el sitio web y adaptarlo a la pantalla del dispositivo usado por el usuario
+-	**Node.js:**  entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript
 -	**EJS:** es un motor de plantillas utilizado por Node.js. El motor de plantillas ayuda a crear una plantilla HTML con un código mínimo. Además, puede inyectar datos en la plantilla HTML en el lado del cliente y producir el HTML final.
 
 Este sitio web fue creado y desarrollado usando la plataforma **Microsoft Visual Studio Code.** Además está adaptado para ejecutarse en dispositivos móviles.
