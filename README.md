@@ -34,3 +34,25 @@ Nodemailer se instala usando npm y debe ser ejecutado bajo un servidor creado co
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
+![taller_automotriz_01](https://user-images.githubusercontent.com/98922137/184043807-53a45f74-4afc-4174-8299-f071e7bb5f58.jpg)
+
+![taller_automotriz_02](https://user-images.githubusercontent.com/98922137/184043810-deb517e3-ec41-4346-93f4-6d77dd29af90.jpg)
+
+![taller_automotriz_03](https://user-images.githubusercontent.com/98922137/184043811-c4c1bf83-c407-47f0-b3ae-45ad433f2ea8.jpg)
+
+![taller_automotriz_04](https://user-images.githubusercontent.com/98922137/184043812-acb82c17-cad2-4450-851d-c068ea94a088.jpg)
+
+![taller_automotriz_05](https://user-images.githubusercontent.com/98922137/184043813-4460392f-0e04-4845-a26c-0afa01ca5e9e.jpg)
+
+![taller_automotriz_06](https://user-images.githubusercontent.com/98922137/184043815-09620dfe-22a7-45e2-9610-2ebd8fe53270.jpg)
+
+![taller_automotriz_07](https://user-images.githubusercontent.com/98922137/184043817-70557c7b-9136-404b-b9b1-8c7d1312d43a.jpg)
+
+![taller_automotriz_08](https://user-images.githubusercontent.com/98922137/184043819-5302f0d6-5b26-49fa-a299-36d8187aa0b5.jpg)
+
+![taller_automotriz_09](https://user-images.githubusercontent.com/98922137/184043822-0937b9c0-f3da-4274-b580-1d62ba1dcc15.jpg)
+
+![taller_automotriz_10](https://user-images.githubusercontent.com/98922137/184043825-feea9581-293f-468f-a28f-11d549fa47e4.jpg)
+
+![taller_automotriz_11](https://user-images.githubusercontent.com/98922137/184043828-00246c3b-cfb6-4e35-8acd-48bda686f4bb.jpg)
+
