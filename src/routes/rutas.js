@@ -131,6 +131,5 @@ rutas.post('/enviarCorreo', (solicitud, respuesta) => {
         .catch((error) => console.log(error.message));
 });
 
-
 // Exportamos las rutas
 module.exports = rutas;
