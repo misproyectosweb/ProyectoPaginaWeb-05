@@ -143,8 +143,8 @@
 
     </script>    
 
-    <script>
-        // Función que permite la deshabilitación del envío de formularios si hay campos inválidos
+    <script>        
+        // Función que permite la deshabilitación del envío de datos en formularios si hay campos inválidos
         (function() {
             'use strict';
             window.addEventListener('load', function() {
@@ -163,19 +163,6 @@
                     }, false);
                 });
             }, false);
-        })();
-    </script>
+        })();                 
+    </script>    
 </div>
-
-<!-- <% if(typeof errores !='undefined') { %>
-    <% errores.forEach((error) => {  %> 
-        <div class="alert alert-warning alert-dismissible fade show" role="alert">
-            <strong><%= error.msg %></strong>
-            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-    <% }) %>
-<% } %> -->
-
-<!-- <% if(typeof errores != 'undefined') { %><%= valores.nombre %><%}%> -->
