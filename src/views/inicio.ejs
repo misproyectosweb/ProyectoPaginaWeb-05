@@ -4,18 +4,22 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="Taller, Enterprice, Servicio, Equipo, Noticias, Contacto, Nosotros"/>
+        <meta name="description" content="Bienvenidos a la página web del taller Enterprice, donde encontrará un amplio y variada oferta de servicios para el cuidado de su automóvil"/>
         <link rel="stylesheet" type="text/css" href="css/estilosInicio.css">
-        <link rel="shortcut icon" type="image/x-icon" href="imagenes/iconotools.png"/> 
+        <link rel="shortcut icon" type="image/x-icon" href="imagenes/iconotools.png"/>
         <title><%- titulo %></title>
         <%- include('partials/head') %>
     </head>
     <body>
         <header>
-            <!-- Sección uno: encabezado -->
-            <%- include('partials/encabezado') %>
+            <div class="container-fluid py-3">
+                <!-- Sección uno: encabezado -->
+                <%- include('partials/encabezado') %>
 
-            <!-- Sección dos: menú de navegación -->
-            <%- include('partials/navegacion') %>
+                <!-- Sección dos: menú de navegación -->
+                <%- include('partials/navegacion') %>                                                                
+            </div>            
         </header>
         <main>
             <!-- Sección tres: información general - título página -->
