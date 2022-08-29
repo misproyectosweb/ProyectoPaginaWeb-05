@@ -70,10 +70,10 @@ rutas.post('/enviarCorreo', (solicitud, respuesta) => {
     `;
 
     // Creamos unas constantes las cuales almacenarán los tokens de acceso
-    const CLIENT_ID = "722022261764-v0ibfp5p3hda283vhh554hg1ja9co3nb.apps.googleusercontent.com";
-    const CLIENT_SECRET = "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";    
+    const CLIENT_ID = "";
+    const CLIENT_SECRET = "";    
     const REDIRECT_URI = "https://developers.google.com/oauthplayground";
-    const REFRESH_TOKEN = "1//04jyShv5KFCsvCgYIARAAGAQSNwF-L9IrKPzQaRahNM9yFzRBLNL8N_CC9dGbtAf2wNVfy_SQ7_9aHSPGmaxlSPenv2E2n4o_bVM";
+    const REFRESH_TOKEN = "";
     
     // Creamos una instancia de la API de Google
     const oAuth2Client = new google.auth.OAuth2(
