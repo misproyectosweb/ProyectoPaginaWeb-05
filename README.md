@@ -56,3 +56,5 @@ A continuación se presentan algunas imágenes del sitio web brevemente descrito
 
 ![taller_automotriz_11](https://user-images.githubusercontent.com/98922137/184043828-00246c3b-cfb6-4e35-8acd-48bda686f4bb.jpg)
 
+![muestraCorreo](https://user-images.githubusercontent.com/98922137/187105770-c6c71189-2097-44f0-91f3-5599e8f02681.jpg)
+
